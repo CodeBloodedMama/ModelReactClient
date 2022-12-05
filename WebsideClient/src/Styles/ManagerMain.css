@@ -1,0 +1,39 @@
+.Manager{
+    display: flex;
+    justify-content: flex-start;
+    min-height : 100%;
+    bottom : 0;
+}
+
+.Manager-Content{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.Manager-Nav{
+    display: flex;
+    flex-direction: column;
+    background-color: #111111 !important;
+    margin-right: 15px;
+    padding: 10px;
+    color: aliceblue;
+    min-height: 500px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #222222;
+}
+
+.nav-items{
+    display:flex;
+    flex-direction: column;
+}

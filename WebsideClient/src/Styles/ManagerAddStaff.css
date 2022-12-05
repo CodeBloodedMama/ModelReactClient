@@ -1,0 +1,11 @@
+.staffSelector{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.staff-header{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}

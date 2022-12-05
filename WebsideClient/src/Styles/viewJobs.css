@@ -1,0 +1,35 @@
+.entries{
+    display:flex;
+    justify-items: center;
+    flex-direction: column;
+    padding: 10px;
+    margin:10px;
+}
+
+.entries-model{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cards-container-model{
+    text-align: left;
+    display:flex;
+    justify-content: center;
+}
+
+
+
+.button-container{
+    text-align:center
+}
+
+.add-job-button{
+    height: 50px;
+    width: 100px;
+    background-color: olivedrab;
+    color: floralwhite;
+    font-size: large;
+    font-weight: 600;
+}

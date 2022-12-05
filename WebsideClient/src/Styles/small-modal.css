@@ -1,0 +1,16 @@
+.centered-button{
+    height: 50px;
+    width: 80px;
+    font-size: large;
+    font-weight: 600;
+    margin-top:20px;
+    margin-bottom:10px;
+    background-color: olivedrab;
+    color: floralwhite;
+}
+
+.select-container{
+    margin-top: 15px;
+    border-top:10px;
+    text-align: center;
+}
